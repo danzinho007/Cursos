@@ -1,0 +1,19 @@
+Curso de Word 2016
+
+Aula 
+01- Apresentação do Curso
+02- 10 dicas
+03- Primeiros passos
+
+=lorem(2,3)
+Texto lorem com 2 parágrafos e 3 frases 
+
+=rand(2,3) 
+Texto com 2 parágrafos e 3 frases
+
+Segura CTRL + [
+Aumentar a letra 
+
+Segura CTRL + Shift + <
+Diminuir a letra  
+Segura CTRL + Shift + > 
